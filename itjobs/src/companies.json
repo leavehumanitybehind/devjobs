@@ -1,0 +1,1198 @@
+[
+    {
+      "_id": "60eefdc78a999452526ccebc",
+      "name": "Scoot",
+      "icon": "scoot-icon",
+      "country": "United Kingdom",
+      "schedule": "Full Time ",
+      "details": {
+        "datePlacement": "2021/08/03 11:46:34",
+        "position": "Senior Sowtware Engineer",
+        "description": "One word says it ALL. We are an airline for the young, the young-at-heart and the value-seeking. People who remember that travel is all about spontaneous discovery, connections and fresh experiences. Simply put, people with Scootitude.",
+        "requirements": {
+          "list": [
+            "Strong knowledge of HTML and web frameworks.",
+            "Extensive knowledge of software development and its technologies.",
+            "5+ year experience",
+            "trong knowledge of Javascript, C++, PHP, and SQL."
+          ],
+          "desc": "We are waiting for strong enginneer in our team! We hope, you have a lot of experience. Plaese tell us about the most interesting cases. How did you solve the problems? What can you say about your soft skills?"
+        },
+        "responsobilities": {
+          "list": [
+            "Refactoring code",
+            "Create SPA",
+            "Create new widjets",
+            "Communicate with disigner"
+          ],
+          "desc": "We are developing large web application. The main aim is rebuilding to the modern framework. "
+        }
+      }
+    },
+    {
+      "_id": "60eefdc72052f4f612f6d986",
+      "name": "Blogr",
+      "icon": "blogr-icon",
+      "country": "United States",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/14 12:46:22",
+        "position": "Haskell and PureScript Dev",
+        "description": "The Blogr Group is one of the top three companies in the global market for access and security solutions. The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office. Around the globe. With over 16,000 employees worldwide (over 500 in Montreal), dormakaba is present in over 130 countries and has more than 150 years of experience. The dormakaba Group is headquartered in Rümlang, Switzerland, and generates annual revenues of over 3 billion dollars CAD.",
+        "requirements": {
+          "list": [
+            "Strong knowledge on Haskell",
+            "Knowledge on terraform or ready to learn it",
+            "Strong knowledge on non-rational database (NoSQL)",
+            "Strong communication skills and work ownership"
+          ],
+          "desc": "The position requires global collaboration with interface points in EMEA and APAC. The candidate will be learning the global dormakaba platform services the solution will be using.If you believe this challenge is right for you then, and you want to make a difference do not hesitate to apply!"
+        },
+        "responsobilities": {
+          "list": [
+            "Part Timeicipate in a DevOps from the development to operations",
+            "Conduct design, code reviews and resolve production issues",
+            "Help modernizing the application",
+            "Take data driven decisions",
+            "Help building automation strategy"
+          ],
+          "desc": "You will be responsible of the development of a brand-new solution empowering our Part Timeners by providing them the easiest and yet most secure access control service. Integrating this service into dormakaba`s platform will provide a great synergy across dormakaba`s product and provide a streamlined dormakaba`s experience for all our customers. As a team member you will be responsible to find innovative solutions, plan the work, develop and deploy software for the cloud platform service.You will be a key contributor on a dynamic team, expand your skillset and become an expert in the most popular cloud software development strategies for dormakaba digital. We are looking for an independent, self-motivated, and innovative developer to implement industry best practices in a true DevOps environment.As the Cloud Software Developer, you will be given the freedom and responsibility to create the best business value service for our customer. With a strong focus on customer satisfaction and collaboration, the candidate will be required to perform at the best of his abilities."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7089542be5c2a9fce",
+      "name": "Vector",
+      "icon": "vector-icon",
+      "country": "Russia",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/12 14:22:34",
+        "position": "Midlevel Back End Engineer",
+        "description": "Vector is a growing SaaS software company headquartered in Moscow, Russia with an extended team around the globe. The Certainty Team is looking to add a talented and outgoing developer to help with the ongoing development of our web-based Certainty auditing and inspection management software solution.",
+        "requirements": {
+          "list": [
+            "Minimum Bachelor`s degree or equivalent",
+            "Minimum of 3 years experience in the software development industry",
+            "Experience with the following development languages: C#, ASP.Net",
+            "Experience with AWS and Jenkins a big plus"
+          ],
+          "desc": "We are looking for an energetic self-starter with initiative and an entrepreneurial spirit. You will be an outstanding problem solver, be ready to learn and help us in our goal of ensuring we continue to deliver great solutions to happy clients."
+        },
+        "responsobilities": {
+          "list": [
+            "Work both with the Certainty development team and alone",
+            "Ensure quality standards are met and exceeded",
+            "Excellent communication skills – verbal and written",
+            "Able to perform under pressure"
+          ],
+          "desc": "You will play a key role in the ongoing support for and development of our proven product that is now used by over 100,000 professionals globally to complete over 2,000,000 audits/inspections annually."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc742a242f6a62b3664",
+      "name": "Office Lite",
+      "icon": "office-lite-icon",
+      "country": "Japan",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/11 13:55:23",
+        "position": "Senior Application Engineer",
+        "description": "The Office Lite is one of the top three companies in the global market for access and security solutions. The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office. Around the globe.",
+        "requirements": {
+          "list": [
+            "Should be very adaptive to ensure agility or the product and the organization",
+            "Good knowledge on UML diagrams",
+            "Experience with agile development and Scrum methodology.",
+            "Knowledge of continuous integration tools and processes is an asset"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Strong empathy with customer situation",
+            "Strong ownership of workmanship and end product reliability",
+            "Part Timeicipate at doing faster release",
+            "Make life smart and secure"
+          ],
+          "desc": "You will collaborate with an agile team composed of developers, quality assurance specialists and DevOps representatives. You will help in the planning, development and delivery of new features."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc79c58b5ba8a2af61e",
+      "name": "Pod",
+      "icon": "pod-icon",
+      "country": "Thailand",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/12 15:52:23",
+        "position": "Remote DevOps Engineer",
+        "description": "Our story began in 1991. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "Over 3 years of profession experience as developer / system administrator / DevOps engineer",
+            "TCP/IP networking, firewalls, switching, and packet sniffers",
+            "Unix/Linux, Windows platform system installations, configurations, and troubleshooting",
+            "Open-source automation tools (Git, Chef, Puppet, Jenkins, Ansible, Docker, Terraform)"
+          ],
+          "desc": "Pod is looking for an enthusiastic and talented DevOps Engineer to join our DevOps team to work with developers and other operational specialists to automate and modernize our hybrid infrastructure. You will be involved with working in a wide variety of cloud and on premises computing technology in both the development and operational stages."
+        },
+        "responsobilities": {
+          "list": [
+            "Writing specifications and documentation",
+            "CI/CD management and automation",
+            "Work with automation services and platforms",
+            "Scripting and coding",
+            "System administration"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc77740ab5c280c2e5b",
+      "name": "Creative",
+      "icon": "creative-icon",
+      "country": "Germany",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/10 13:33:23",
+        "position": "Desktop Support Manager",
+        "description": "We are the best IT company in Germany!",
+        "requirements": {
+          "list": [
+            "2+ years of experience as a Developer;",
+            "Good knowledge of Java and / or C#;",
+            "Experience in desktop application development (asset);",
+            "Knowledge of JavaFX (strong asset);",
+            "Experience in Linux environment;",
+            "Team spirit and desire to learn;"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Develop new modules and new functionalities;",
+            "Create graphical interfaces using JavaFX;",
+            "Ensure the performance and stability of applications;",
+            "Work in a development team of more than 20 people;",
+            "Part Timeicipate in the redesign of desktop applications."
+          ],
+          "desc": "The Developer will be responsible for programming the company’s desktop applications in order to design high-quality systems in Java."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7db24689c2a131c40",
+      "name": "Pomodore",
+      "icon": "pomodore-icon",
+      "country": "United States",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/16 11:52:23",
+        "position": "IOS Engineer",
+        "description": "The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office.",
+        "requirements": {
+          "list": [
+            "4+ years of experience as an iOS Developer;",
+            "Specialized experience with Swift;",
+            "Autonomy, openness and team spirit;",
+            "Experience with Objective-C (asset);",
+            "BAC in computer science or equivalent;",
+            "French required, basic English."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "The iOS Developer will contribute to the development of new features on the company’s main mobile application.",
+            "Add and optimize functionalities with Swift;",
+            "Design innovative and easy-to-use software components;",
+            "Write quality code and perform development tests;",
+            "Work within a team of 4 developers in Agile mode;"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc70a593105bdbb640f",
+      "name": "Maker",
+      "icon": "maker-icon",
+      "country": "United Kingdom",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/07 09:42:23",
+        "position": "Senior EJB Developer",
+        "description": "As Part Time of the TMX Group family, TSX Trust is the largest Canadian-owned Transfer Agent and provider of Corporate Trust services. Whether issuers need help with Corporate Actions, Investor Service, or planning your Investor Meeting, our services are tailored to make their transactions a success. ",
+        "requirements": {
+          "list": [
+            "Minimum 8 Years of software development and design experience",
+            "University degree or college diploma in computer science or an equivalent combination of education and work experience",
+            "Proficient in Agile Software Development Lifecycle, building software the Agile way from design, development, testing, deployment, to production release; proficient in JIRA",
+            "Java/J2EE; Oracle and sql-server database; Linux, Unix and windows OS",
+            "Java Skill Set: Core Java, Multi-Threading, Collections, JDBC",
+            "J2EE Skill Set: Spring, jBoss, Struts, MQ Series, Hibernate, Ibatis",
+            "Build Skill Sets: Maven, Ant"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "You will be responsible for technical leadership, software design, development, testing, automation and maintenance of applications across the enterprise.",
+            "You will provide oversight on tasks done by team members and ensure best practices are followed.",
+            "You will work closely with Project Managers, Scrum Leads in creating project breakdown, technical delivery schedule and helping them meet all identified milestones.",
+            "You will design and develop Software solutions that fits within the guidelines set forth by Security, Architecture and Solution Leads.",
+            "You will be responsible for mentoring and guiding team members any complex or challenging situations that requires advanced knowledge",
+            "You will create documentation and test scripts supporting the development work."
+          ],
+          "desc": "The role of the Senior Software Engineer is to work with other application/platform developers and implement business requirements into concrete solutions. Review the solution and design with the architects and database administrators as required. Work with the application development team to produce the technical documentation of the projects."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7151ebade15aff25b",
+      "name": "Coffeeroasters",
+      "icon": "coffeeroasters-icon",
+      "country": "Singapure",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/10 14:55:23",
+        "position": "Senior Fronted developer",
+        "description": "Issuer Services of Global Technology Services provides Information Service to TSX Trust. We are seeking a Senior Software Engineer as a key player not only to support and maintain software solutions based on multiple traditional technologies, but also to revolutionize the technology stacks and contribute to the acceleration of TSX Trust’s growth and its competitive position.",
+        "requirements": {
+          "list": [
+            "You have 5 or more years of software development experience, (conceptualization, design, development and debugging) with at least two years of experience providing hands-on architectural design for software applications with an understanding of design patterns such as MVVM, MVC, Clean Architecture",
+            "Sound technical knowledge with:HTML, CSS, JQuery, XSL, XML,Angular 8(+),Java Script, Junit, Responsive design and development",
+            "You have experience with unit-testing, code for robustness, security, usability and improving performance of the overall application",
+            "You have a proficient understanding of code versioning tools, such as Git",
+            "Strong command in Computer Science concepts (SOLID, etc.)"
+          ],
+          "desc": "As a Senior Frontend Developer, you will be joining one of our teams, expanding our banking platform. You will be contributing to the development of world-class digital products and experiences touching millions of Tangerine customers every day. We are looking to fill our team with influencers, makers, creators and leaders who are flexible, curious, adventurous, versatile and responsive and who are ready to roll up their sleeves in a collaborative and productive environment to get things done. By joining our team, you will make an impact on our customers and the banking industry."
+        },
+        "responsobilities": {
+          "list": [
+            "You dream in code and spend your free time tinkering with new technologies or building apps on the side",
+            "Interested in the impact that financial services technology can have on people’s everyday lives",
+            "Experienced in user-centered design",
+            "Eager to mentor, teach and share",
+            "Continuous integration and deployment makes you giddy"
+          ],
+          "desc": "As a Senior Frontend Developer, you will be joining one of our teams, expanding our banking platform. You will be contributing to the development of world-class digital products and experiences touching millions of Tangerine customers every day. We are looking to fill our team with influencers, makers, creators and leaders who are flexible, curious, adventurous, versatile and responsive and who are ready to roll up their sleeves in a collaborative and productive environment to get things done. By joining our team, you will make an impact on our customers and the banking industry."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7675ece3c4fcb36dc",
+      "name": "Mastercraft",
+      "icon": "mastercraft-icon",
+      "country": "United States",
+      "schedule": "freelance",
+      "details": {
+        "datePlacement": "2021/07/02 09:42:23",
+        "position": "App & Website Designer",
+        "description": "",
+        "requirements": {
+          "list": [
+            "You have a strong understanding of the principles of design and best practices for effective communications in everything from Instagram to billboards",
+            "Self-motivated - you can solve problems and manage your own time. You have a successful history of owning and delivering projects",
+            "Proficient in Adobe Creative Suite, Figma, Microsoft Office",
+            "Experience in integrated marketing design preferably B2C",
+            "Be a team player who is eager to support other team members",
+            "Excellent communication skills"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Create exceptional design work in a wide range of mediums",
+            "Collaborate with the Senior Designer, copy team and marketing team to bring creative concepts to life, ensuring final designs are delivered on brief, on time and in Full Time, in English and French",
+            "Bring fresh ideas and perspectives that will inspire our customers"
+          ],
+          "desc": "MEC is looking for a Graphic Designer to join its in-house Creative team. This hire will be responsible for creating visual communications that inspire our customers to purchase outdoor gear, try new activities and lead a more active lifestyle. They will collaborate not only with the creative team but with the whole marketing team, creating design solutions that captivate our audiences and evolve our brand presence."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc773c2c8b3b40c6051",
+      "name": "Crowdfund",
+      "icon": "crowdfund-icon",
+      "country": "New Zealand",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/06/28 08:42:23",
+        "position": "Full Timestack Developer",
+        "description": "Our story began in 1971. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "3+ years of experience as a Full Timestack Developer;",
+            "Professional experience specializing in Java and React;",
+            "Good knowledge of HTML5, CSS, jQuery and SASS;",
+            "Mastery of object-oriented programming principles and Design Patterns;",
+            "Knowledge of Hibernate, JPA, SQL, JMS, JAXB, Servlet, EJB 3 (assets);"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Analyze customer needs, establish specifications and carry out Full Timestack development;",
+            "Support clients in their data integration projects;",
+            "Perform unit tests and integration tests;",
+            "Ensure the correction of anomalies and the optimization of the code;",
+            "Write technical documentation and keep it up to date."
+          ],
+          "desc": "The Developer will be responsible of developing new functionalities mainly on Java and React."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7f40e275137784fb1",
+      "name": "Typemaster",
+      "icon": "typemaster-icon",
+      "country": "United Kingdom",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/04 08:22:23",
+        "position": "Technical Lead Engineer",
+        "description": "At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies  building blocks for gaming, immersive platforms, and the data center. ",
+        "requirements": {
+          "list": [
+            "Should have industry experience of 7-10 years in software test techniques and methodologies.",
+            "Experience in leading teams on validation projects will be a plus.",
+            "Should have a good conceptual understanding of OS internals and PC/server subsystems is highly preferred.",
+            "Sophisticated experience with graphics subsystems is an added advantage.",
+            "Familiarity with requirement management tools, such as Jira and Confluence is an advantage.",
+            "Should possess good problem solving, critical thinking, time management, and prioritization skills."
+          ],
+          "desc": "Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team."
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": "The Core Team of Software QA is looking for an QA Engineer for leading QA activities for one of the domains of graphics drivers. As a QA Lead, you will perform and/or oversee the test planning and scoping of tests in addition to reviewing the existing test case and recommend the development of new test cases (manual and scripted test instructions) for the features/test requirements assigned to them in addition to working with the QA product owner to populate and maintain coverage map for projects. Any prior software or firmware development or testing experience will be a strong asset to have."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7f4562afd8fcf5d12",
+      "name": "Concordia",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/13 11:52:23",
+        "position": "Solution Architect, IITS",
+        "description": "Reporting to the Director Architecture and Project Portfolio management, at Concordia University, the incumbent serves as an expert in their field and a reference in terms of expertise for other team members including project managers.",
+        "requirements": {
+          "list": [
+            "Experience in designing, implementing solutions and their evolutions.",
+            "Experience with on premise, SaaS and hybrid architectures.",
+            "Knowledge of an architecture framework (ex. Archimate, Togaf, Zachman, 4+1 View, etc.), desirable.",
+            "Overall experience in application, infrastructure, data, security, operation architecture.",
+            "Good knowledge (Level 4) of spoken and written English and basic knowledge (Level 3) of spoken and written French."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Define target architecture and associated roadmap for institutional and core solutions",
+            "Lead and develop project solution architecture documentation and support related development IT and non-IT activities",
+            "Ensure coherent involvement of IT specialists (infrastructure, data, security, operation, functional) in the elaboration of the solution architecture",
+            "Lead business cases (pre project) development including impact analysis and cost evaluation of the proposed options",
+            "Support the project manager in the planification of the architecture activities included in the initiation, planning and execution phases",
+            "Ensure that the solution meets quality criteria (availability, performance, cost, etc.) and align with Enterprise Architecture Framework"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc77674d593683e1185",
+      "name": "Dormakaba",
+      "icon": "default",
+      "country": "Singapure",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/06/28 08:42:23",
+        "position": "Software Developer – Full Time Stack/.NET",
+        "description": "The dormakaba Group is one of the top three companies in the global market for access and security solutions. The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office. Around the globe.",
+        "requirements": {
+          "list": [
+            "Experience with asynchronous processes, threads and back-end services",
+            "Practical knowledge of web services APIs, Cloud platforms",
+            "Practical knowledge of SQL and Non-SQL (Cosmos DB, MongoDB)",
+            "Practical knowledge of ORM (Entity Framework, nHibernate)",
+            "Familiar with Microservice architecture"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": "You will collaborate with an agile team composed of developers, quality assurance specialists and DevOps representatives. You will help in the planning, development and delivery of new features.As a software developer your tasks will include the implementation and design of new functionalities and the creation of unit and integration tests to meet our coverage objectives. Each developer will actively Part Timeicipate in code reviews and dojo sessions.Each team member must be solution-oriented and help build a performant, resilient and secure application. As a developer in our agile team, you should have the capacity and curiosity to clearly comprehend the overall architecture and appreciate the needs of the business domain.Trust and courage being core to our values, we encourage each team member to bring new ideas to the table!"
+        }
+      }
+    },
+    {
+      "_id": "60eefdc770dfc40a8e1cf499",
+      "name": "Office Lite",
+      "icon": "office-lite-icon",
+      "country": "Japan",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/11 13:55:23",
+        "position": "Senior Application Engineer",
+        "description": "The Office Lite is one of the top three companies in the global market for access and security solutions. The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office. Around the globe.",
+        "requirements": {
+          "list": [
+            "Should be very adaptive to ensure agility or the product and the organization",
+            "Good knowledge on UML diagrams",
+            "Experience with agile development and Scrum methodology.",
+            "Knowledge of continuous integration tools and processes is an asset"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Strong empathy with customer situation",
+            "Strong ownership of workmanship and end product reliability",
+            "Part Timeicipate at doing faster release",
+            "Make life smart and secure"
+          ],
+          "desc": "You will collaborate with an agile team composed of developers, quality assurance specialists and DevOps representatives. You will help in the planning, development and delivery of new features."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc74455020fbee9ada9",
+      "name": "Pod",
+      "icon": "pod-icon",
+      "country": "Thailand",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/12 15:52:23",
+        "position": "Remote DevOps Engineer",
+        "description": "Our story began in 1991. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "Over 3 years of profession experience as developer / system administrator / DevOps engineer",
+            "TCP/IP networking, firewalls, switching, and packet sniffers",
+            "Unix/Linux, Windows platform system installations, configurations, and troubleshooting",
+            "Open-source automation tools (Git, Chef, Puppet, Jenkins, Ansible, Docker, Terraform)"
+          ],
+          "desc": "Pod is looking for an enthusiastic and talented DevOps Engineer to join our DevOps team to work with developers and other operational specialists to automate and modernize our hybrid infrastructure. You will be involved with working in a wide variety of cloud and on premises computing technology in both the development and operational stages."
+        },
+        "responsobilities": {
+          "list": [
+            "Writing specifications and documentation",
+            "CI/CD management and automation",
+            "Work with automation services and platforms",
+            "Scripting and coding",
+            "System administration"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc764b76ec35de3fa0f",
+      "name": "Creative",
+      "icon": "creative-icon",
+      "country": "Germany",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/10 12:55:45",
+        "position": "Desktop Support Manager",
+        "description": "We are the best IT company in Germany!",
+        "requirements": {
+          "list": [
+            "2+ years of experience as a Developer;",
+            "Good knowledge of Java and / or C#;",
+            "Experience in desktop application development (asset);",
+            "Knowledge of JavaFX (strong asset);",
+            "Experience in Linux environment;",
+            "Team spirit and desire to learn;"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Develop new modules and new functionalities;",
+            "Create graphical interfaces using JavaFX;",
+            "Ensure the performance and stability of applications;",
+            "Work in a development team of more than 20 people;",
+            "Part Timeicipate in the redesign of desktop applications."
+          ],
+          "desc": "The Developer will be responsible for programming the company’s desktop applications in order to design high-quality systems in Java."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7dc1cd7a14468ab03",
+      "name": "Pomodore",
+      "icon": "pomodore-icon",
+      "country": "United States",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/16 11:52:23",
+        "position": "IOS Engineer",
+        "description": "The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office.",
+        "requirements": {
+          "list": [
+            "4+ years of experience as an iOS Developer;",
+            "Specialized experience with Swift;",
+            "Autonomy, openness and team spirit;",
+            "Experience with Objective-C (asset);",
+            "BAC in computer science or equivalent;",
+            "French required, basic English."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "The iOS Developer will contribute to the development of new features on the company’s main mobile application.",
+            "Add and optimize functionalities with Swift;",
+            "Design innovative and easy-to-use software components;",
+            "Write quality code and perform development tests;",
+            "Work within a team of 4 developers in Agile mode;"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc709cdab61c286cb62",
+      "name": "Maker",
+      "icon": "maker-icon",
+      "country": "United Kingdom",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/07 09:42:23",
+        "position": "Senior EJB Developer",
+        "description": "As Part Time of the TMX Group family, TSX Trust is the largest Canadian-owned Transfer Agent and provider of Corporate Trust services. Whether issuers need help with Corporate Actions, Investor Service, or planning your Investor Meeting, our services are tailored to make their transactions a success. ",
+        "requirements": {
+          "list": [
+            "Minimum 8 Years of software development and design experience",
+            "University degree or college diploma in computer science or an equivalent combination of education and work experience",
+            "Proficient in Agile Software Development Lifecycle, building software the Agile way from design, development, testing, deployment, to production release; proficient in JIRA",
+            "Java/J2EE; Oracle and sql-server database; Linux, Unix and windows OS",
+            "Java Skill Set: Core Java, Multi-Threading, Collections, JDBC",
+            "J2EE Skill Set: Spring, jBoss, Struts, MQ Series, Hibernate, Ibatis",
+            "Build Skill Sets: Maven, Ant"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "You will be responsible for technical leadership, software design, development, testing, automation and maintenance of applications across the enterprise.",
+            "You will provide oversight on tasks done by team members and ensure best practices are followed.",
+            "You will work closely with Project Managers, Scrum Leads in creating project breakdown, technical delivery schedule and helping them meet all identified milestones.",
+            "You will design and develop Software solutions that fits within the guidelines set forth by Security, Architecture and Solution Leads.",
+            "You will be responsible for mentoring and guiding team members any complex or challenging situations that requires advanced knowledge",
+            "You will create documentation and test scripts supporting the development work."
+          ],
+          "desc": "The role of the Senior Software Engineer is to work with other application/platform developers and implement business requirements into concrete solutions. Review the solution and design with the architects and database administrators as required. Work with the application development team to produce the technical documentation of the projects."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc74d4996f432b06ade",
+      "name": "Coffeeroasters",
+      "icon": "coffeeroasters-icon",
+      "country": "Singapure",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/10 18:26:44",
+        "position": "Senior Fronted developer",
+        "description": "Issuer Services of Global Technology Services provides Information Service to TSX Trust. We are seeking a Senior Software Engineer as a key player not only to support and maintain software solutions based on multiple traditional technologies, but also to revolutionize the technology stacks and contribute to the acceleration of TSX Trust’s growth and its competitive position.",
+        "requirements": {
+          "list": [
+            "You have 5 or more years of software development experience, (conceptualization, design, development and debugging) with at least two years of experience providing hands-on architectural design for software applications with an understanding of design patterns such as MVVM, MVC, Clean Architecture",
+            "Sound technical knowledge with:HTML, CSS, JQuery, XSL, XML,Angular 8(+),Java Script, Junit, Responsive design and development",
+            "You have experience with unit-testing, code for robustness, security, usability and improving performance of the overall application",
+            "You have a proficient understanding of code versioning tools, such as Git",
+            "Strong command in Computer Science concepts (SOLID, etc.)"
+          ],
+          "desc": "As a Senior Frontend Developer, you will be joining one of our teams, expanding our banking platform. You will be contributing to the development of world-class digital products and experiences touching millions of Tangerine customers every day. We are looking to fill our team with influencers, makers, creators and leaders who are flexible, curious, adventurous, versatile and responsive and who are ready to roll up their sleeves in a collaborative and productive environment to get things done. By joining our team, you will make an impact on our customers and the banking industry."
+        },
+        "responsobilities": {
+          "list": [
+            "You dream in code and spend your free time tinkering with new technologies or building apps on the side",
+            "Interested in the impact that financial services technology can have on people’s everyday lives",
+            "Experienced in user-centered design",
+            "Eager to mentor, teach and share",
+            "Continuous integration and deployment makes you giddy"
+          ],
+          "desc": "As a Senior Frontend Developer, you will be joining one of our teams, expanding our banking platform. You will be contributing to the development of world-class digital products and experiences touching millions of Tangerine customers every day. We are looking to fill our team with influencers, makers, creators and leaders who are flexible, curious, adventurous, versatile and responsive and who are ready to roll up their sleeves in a collaborative and productive environment to get things done. By joining our team, you will make an impact on our customers and the banking industry."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc72381c82ca02c74fc",
+      "name": "Mastercraft",
+      "icon": "mastercraft-icon",
+      "country": "United States",
+      "schedule": "freelance",
+      "details": {
+        "datePlacement": "2021/07/02 09:42:23",
+        "position": "App & Website Designer",
+        "description": "",
+        "requirements": {
+          "list": [
+            "You have a strong understanding of the principles of design and best practices for effective communications in everything from Instagram to billboards",
+            "Self-motivated - you can solve problems and manage your own time. You have a successful history of owning and delivering projects",
+            "Proficient in Adobe Creative Suite, Figma, Microsoft Office",
+            "Experience in integrated marketing design preferably B2C",
+            "Be a team player who is eager to support other team members",
+            "Excellent communication skills"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Create exceptional design work in a wide range of mediums",
+            "Collaborate with the Senior Designer, copy team and marketing team to bring creative concepts to life, ensuring final designs are delivered on brief, on time and in Full Time, in English and French",
+            "Bring fresh ideas and perspectives that will inspire our customers"
+          ],
+          "desc": "MEC is looking for a Graphic Designer to join its in-house Creative team. This hire will be responsible for creating visual communications that inspire our customers to purchase outdoor gear, try new activities and lead a more active lifestyle. They will collaborate not only with the creative team but with the whole marketing team, creating design solutions that captivate our audiences and evolve our brand presence."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7e948170eceddaca8",
+      "name": "Crowdfund",
+      "icon": "crowdfund-icon",
+      "country": "New Zealand",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/06/28 08:42:23",
+        "position": "Full Timestack Developer",
+        "description": "Our story began in 1971. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "3+ years of experience as a Full Timestack Developer;",
+            "Professional experience specializing in Java and React;",
+            "Good knowledge of HTML5, CSS, jQuery and SASS;",
+            "Mastery of object-oriented programming principles and Design Patterns;",
+            "Knowledge of Hibernate, JPA, SQL, JMS, JAXB, Servlet, EJB 3 (assets);"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Analyze customer needs, establish specifications and carry out Full Timestack development;",
+            "Support clients in their data integration projects;",
+            "Perform unit tests and integration tests;",
+            "Ensure the correction of anomalies and the optimization of the code;",
+            "Write technical documentation and keep it up to date."
+          ],
+          "desc": "The Developer will be responsible of developing new functionalities mainly on Java and React."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7171f5163b16a5031",
+      "name": "Typemaster",
+      "icon": "typemaster-icon",
+      "country": "United Kingdom",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/04 08:22:23",
+        "position": "Technical Lead Engineer",
+        "description": "At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies  building blocks for gaming, immersive platforms, and the data center. ",
+        "requirements": {
+          "list": [
+            "Should have industry experience of 7-10 years in software test techniques and methodologies.",
+            "Experience in leading teams on validation projects will be a plus.",
+            "Should have a good conceptual understanding of OS internals and PC/server subsystems is highly preferred.",
+            "Sophisticated experience with graphics subsystems is an added advantage.",
+            "Familiarity with requirement management tools, such as Jira and Confluence is an advantage.",
+            "Should possess good problem solving, critical thinking, time management, and prioritization skills."
+          ],
+          "desc": "Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team."
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": "The Core Team of Software QA is looking for an QA Engineer for leading QA activities for one of the domains of graphics drivers. As a QA Lead, you will perform and/or oversee the test planning and scoping of tests in addition to reviewing the existing test case and recommend the development of new test cases (manual and scripted test instructions) for the features/test requirements assigned to them in addition to working with the QA product owner to populate and maintain coverage map for projects. Any prior software or firmware development or testing experience will be a strong asset to have."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7ad2873dc14572997",
+      "name": "Concordia",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/13 11:52:23",
+        "position": "Solution Architect, IITS",
+        "description": "Reporting to the Director Architecture and Project Portfolio management, at Concordia University, the incumbent serves as an expert in their field and a reference in terms of expertise for other team members including project managers.",
+        "requirements": {
+          "list": [
+            "Experience in designing, implementing solutions and their evolutions.",
+            "Experience with on premise, SaaS and hybrid architectures.",
+            "Knowledge of an architecture framework (ex. Archimate, Togaf, Zachman, 4+1 View, etc.), desirable.",
+            "Overall experience in application, infrastructure, data, security, operation architecture.",
+            "Good knowledge (Level 4) of spoken and written English and basic knowledge (Level 3) of spoken and written French."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Define target architecture and associated roadmap for institutional and core solutions",
+            "Lead and develop project solution architecture documentation and support related development IT and non-IT activities",
+            "Ensure coherent involvement of IT specialists (infrastructure, data, security, operation, functional) in the elaboration of the solution architecture",
+            "Lead business cases (pre project) development including impact analysis and cost evaluation of the proposed options",
+            "Support the project manager in the planification of the architecture activities included in the initiation, planning and execution phases",
+            "Ensure that the solution meets quality criteria (availability, performance, cost, etc.) and align with Enterprise Architecture Framework"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc70e1e276550cf293c",
+      "name": "Dormakaba",
+      "icon": "default",
+      "country": "Singapure",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/06/28 08:42:23",
+        "position": "Software Developer – Full Time Stack/.NET",
+        "description": "The dormakaba Group is one of the top three companies in the global market for access and security solutions. The company is a single source provider of products, solutions and services related to doors and secure access to buildings and rooms. No matter where you are, if you need reliable and innovative access and security solutions, we will provide you high quality service – in hotels, shops, sports facilities, airports, hospitals, at home or in the office. Around the globe.",
+        "requirements": {
+          "list": [
+            "Experience with asynchronous processes, threads and back-end services",
+            "Practical knowledge of web services APIs, Cloud platforms",
+            "Practical knowledge of SQL and Non-SQL (Cosmos DB, MongoDB)",
+            "Practical knowledge of ORM (Entity Framework, nHibernate)",
+            "Familiar with Microservice architecture"
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": "You will collaborate with an agile team composed of developers, quality assurance specialists and DevOps representatives. You will help in the planning, development and delivery of new features.As a software developer your tasks will include the implementation and design of new functionalities and the creation of unit and integration tests to meet our coverage objectives. Each developer will actively Part Timeicipate in code reviews and dojo sessions.Each team member must be solution-oriented and help build a performant, resilient and secure application. As a developer in our agile team, you should have the capacity and curiosity to clearly comprehend the overall architecture and appreciate the needs of the business domain.Trust and courage being core to our values, we encourage each team member to bring new ideas to the table!"
+        }
+      }
+    },
+    {
+      "_id": "60eefdc771cacf9faf07bcd7",
+      "name": "Toronto",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/22 08:22:23",
+        "position": "System Development Specialist (Front-End Developer)",
+        "description": "Our story began in 1971. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "Post-secondary education in computer science or a related discipline, or the approved equivalent combination of education and/or experience.",
+            "Extensive experience in business system analysis, rapid application development and programming in a large, diverse computing environment.",
+            "Extensive experience in HTML5, CSS3, JavaScript, jQuery, Vue.JS, and Bootstrap.",
+            "Extensive experience in using REST APIs, including JSON and XML APIs."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Performs analysis and design duties as well as programming, modelling and scripting, testing, documentation and deployment preparation",
+            "Coordinates and prepares needs analysis and detailed component design",
+            "Conducts user interviews to determine detailed systems requirements",
+            "Completes preliminary analysis, system and functional design, and workflow diagrams for quality systems development",
+            "Prepares front-end prototypes and mock-ups of user interface"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc79828daef3ed91cc2",
+      "name": "Starbucks",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/14 14:55:56",
+        "position": "Haskell and PureScript Dev",
+        "description": "Our story began in 1971. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc71cafbeff0f7df49e",
+      "name": "Starbucks",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/14 12:45:44",
+        "position": "Haskell and PureScript Dev",
+        "description": "Our story began in 1971. Back then we were a roaster and retailer of whole bean and ground coffee, tea and spices with a single store in Seattle’s Pike Place Market. Today we are privileged to connect with millions of customers every day with exceptional products and more than 30,000 retail stores in 83 markets.",
+        "requirements": {
+          "list": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc79227e18f11cc5317",
+      "name": "Meizo",
+      "icon": "default",
+      "country": "Russia",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/12 15:52:23",
+        "position": "JS developer",
+        "description": "",
+        "requirements": {
+          "list": [
+            "Experience creating program specifications and code documents, including use cases, business process models, swim lane process, entity relationship diagrams, class and component models.",
+            "Experience developing and/or maintaining large-scale information technology applications.",
+            "Experience in working effectively with a group of multidisciplinary staff in a project team setting."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Designs, codes, tests, implements and maintains shared JavaScript libraries and components",
+            "Designs, codes, tests, implements and maintains HTML5 and hybrid mobile apps",
+            "Designs and develops systems that comply with Accessibility, Security and Privacy standards and legislation",
+            "Coordinates and develops program specifications and documentation",
+            "Designs and conducts all levels of testing, i.e. unit, system, integration, regression, performance, security, usability, optimization/configuration and coordinates user acceptance testing"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc740526dcd8f14fbd8",
+      "name": "Cant",
+      "icon": "default",
+      "country": "Thailand",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/08 11:42:23",
+        "position": "Project Manager",
+        "description": "Maecenas commodo nisl massa, fringilla venenatis risus dignissim a. Donec placerat convallis ex egestas aliquam. Sed mauris sapien, volutpat non pharetra a, efficitur sit amet enim. Etiam laoreet purus id hendrerit eleifend. Proin pellentesque leo eu turpis pharetra, ut luctus augue viverra. Ut vel diam lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. In nibh est, varius ac dignissim vel, tristique in nisl. Curabitur tristique purus libero. Sed porttitor fermentum erat, ut accumsan justo varius eget. Morbi laoreet sapien vel orci elementum cursus. Morbi id sem lacus. Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc720d70dd0ac02c660",
+      "name": "Perminao",
+      "icon": "default",
+      "country": "Italy",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/14 16:25:25",
+        "position": "Haskell and PureScript Dev",
+        "description": "Maecenas commodo nisl massa, fringilla venenatis risus dignissim a. Donec placerat convallis ex egestas aliquam. Sed mauris sapien, volutpat non pharetra a, efficitur sit amet enim. Etiam laoreet purus id hendrerit eleifend. Proin pellentesque leo eu turpis pharetra.",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa."
+          ],
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        },
+        "responsobilities": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc73d20004e7e32ab49",
+      "name": "Poke",
+      "icon": "default",
+      "country": "Australia",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/14 16:32:32",
+        "position": "Vue.JS dev",
+        "description": "Maecenas commodo nisl massa, fringilla venenatis risus dignissim a. Donec placerat convallis ex egestas aliquam. Sed mauris sapien, volutpat non pharetra a, efficitur sit amet enim. Etiam laoreet purus id hendrerit eleifend. Proin pellentesque leo eu turpis pharetra, ut luctus augue viverra.",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": "Proin pellentesque leo eu turpis pharetra, ut luctus augue viverra."
+        },
+        "responsobilities": {
+          "list": [
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc74461dadec80edf07",
+      "name": "Porreo",
+      "icon": "default",
+      "country": "Japan",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/14 18:45:12",
+        "position": "QA Engineer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate mattis sem sit amet aliquet. Aenean tempor, sem pretium tristique rutrum, ipsum leo blandit massa, non posuere turpis libero at ex. Morbi ultricies non est in iaculis. Suspendisse gravida dolor eu augue maximus porta. Aenean faucibus justo eu massa finibus, rutrum efficitur neque ornare. Nulla eu rhoncus ex, et finibus nulla. Nulla ornare suscipit augue, ut egestas metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean turpis nulla, convallis non varius sollicitudin, luctus non nisi.",
+        "requirements": {
+          "list": [
+            "Experience creating program specifications and code documents, including use cases, business process models, swim lane process, entity relationship diagrams, class and component models.",
+            "Experience developing and/or maintaining large-scale information technology applications.",
+            "Experience in working effectively with a group of multidisciplinary staff in a project team setting."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Designs, codes, tests, implements and maintains shared JavaScript libraries and components",
+            "Designs, codes, tests, implements and maintains HTML5 and hybrid mobile apps",
+            "Designs and develops systems that comply with Accessibility, Security and Privacy standards and legislation",
+            "Coordinates and develops program specifications and documentation",
+            "Designs and conducts all levels of testing, i.e. unit, system, integration, regression, performance, security, usability, optimization/configuration and coordinates user acceptance testing"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7021529796d6e3a1e",
+      "name": "Stuidio Star",
+      "icon": "default",
+      "country": "France",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/03 19:55:55",
+        "position": "Product manager",
+        "description": "Maecenas commodo nisl massa, fringilla venenatis risus dignissim a. Donec placerat convallis ex egestas aliquam. Sed mauris sapien, volutpat non pharetra a, efficitur sit amet enim. Etiam laoreet purus id hendrerit eleifend. Proin pellentesque leo eu turpis pharetra, ut luctus augue viverra. Ut vel diam lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. In nibh est, varius ac dignissim vel, tristique in nisl. Curabitur tristique purus libero. Sed porttitor fermentum erat, ut accumsan justo varius eget. Morbi laoreet sapien vel orci elementum cursus. Morbi id sem lacus. Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa."
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7d7c010abb0ad052a",
+      "name": "Lorem ",
+      "icon": "default",
+      "country": "Germany",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "2021/07/07 17:07:27",
+        "position": "Haskell and PureScript Dev",
+        "description": "In nibh est, varius ac dignissim vel, tristique in nisl. Curabitur tristique purus libero. Sed porttitor fermentum erat, ut accumsan justo varius eget. Morbi laoreet sapien vel orci elementum cursus. Morbi id sem lacus. Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam..",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7c470efb13cfd256d",
+      "name": "Ipsum",
+      "icon": "default",
+      "country": "Australia",
+      "schedule": "frelance",
+      "details": {
+        "datePlacement": "2021/07/09 11:52:23",
+        "position": "Haskell and PureScript Dev",
+        "description": " Morbi id sem lacus. Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa.",
+            "Sed tristique lacus sed libero venenatis iaculis.",
+            "Nam imperdiet justo id cursus facilisis.",
+            "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Mauris gravida erat sit amet ante ullamcorper auctor.",
+            "Mauris at nunc quis mi ultricies finibus at at massa."
+          ],
+          "desc": "Cras vestibulum sapien vitae lectus imperdiet, sit amet mattis metus condimentum."
+        }
+      }
+    },
+    {
+      "_id": "60eefdc7c0add3d09fd235e1",
+      "name": "Merloo",
+      "icon": "default",
+      "country": "United States",
+      "schedule": "Part Time",
+      "details": {
+        "datePlacement": "3.07.2021 13:07:21",
+        "position": "Backend Engineer",
+        "description": "Curabitur tristique purus libero. Sed porttitor fermentum erat, ut accumsan justo varius eget. Morbi laoreet sapien vel orci elementum cursus. Morbi id sem lacus. Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Experience creating program specifications and code documents, including use cases, business process models, swim lane process, entity relationship diagrams, class and component models.",
+            "Experience developing and/or maintaining large-scale information technology applications.",
+            "Experience in working effectively with a group of multidisciplinary staff in a project team setting."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Praesent vitae justo ac nunc vehicula porttitor vel ut mi.",
+            "Curabitur iaculis nunc a mi tincidunt, at commodo nibh aliquet.",
+            "Integer quis orci non tellus pulvinar sodales nec id sapien.",
+            "In eu tellus egestas, molestie nulla nec, scelerisque turpis.",
+            "Curabitur at purus pretium, congue quam sit amet, viverra mi."
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc710019d709692cc03",
+      "name": "Foo Bar",
+      "icon": "default",
+      "country": "Russia",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/04 08:22:23",
+        "position": "Frontend dev",
+        "description": " Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Experience creating program specifications and code documents, including use cases, business process models, swim lane process, entity relationship diagrams, class and component models.",
+            "Experience developing and/or maintaining large-scale information technology applications."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Designs and develops systems that comply with Accessibility, Security and Privacy standards and legislation",
+            "Coordinates and develops program specifications and documentation",
+            "Designs and conducts all levels of testing, i.e. unit, system, integration, regression, performance, security, usability, optimization/configuration and coordinates user acceptance testing"
+          ],
+          "desc": ""
+        }
+      }
+    },
+    {
+      "_id": "60eefdc79967c3ecbb1c98c9",
+      "name": "Star Part Time",
+      "icon": "default",
+      "country": "Canada",
+      "schedule": "Full Time",
+      "details": {
+        "datePlacement": "2021/07/14 18:07:21",
+        "position": "Test engineer",
+        "description": " Maecenas tempus mattis est, nec consectetur ante imperdiet nec. Nunc ut justo sodales, vestibulum augue ac, molestie dolor. Pellentesque elementum eleifend lacus sit amet condimentum. Pellentesque in ligula eget turpis accumsan vulputate ac at quam.",
+        "requirements": {
+          "list": [
+            "Praesent vitae justo ac nunc vehicula porttitor vel ut mi.",
+            "Curabitur iaculis nunc a mi tincidunt, at commodo nibh aliquet.",
+            "Integer quis orci non tellus pulvinar sodales nec id sapien."
+          ],
+          "desc": ""
+        },
+        "responsobilities": {
+          "list": [
+            "Designs, codes, tests, implements and maintains shared JavaScript libraries and components",
+            "Designs, codes, tests, implements and maintains HTML5 and hybrid mobile apps"
+          ],
+          "desc": ""
+        }
+      }
+    }
+  ]
