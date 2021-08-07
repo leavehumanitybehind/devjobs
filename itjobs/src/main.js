@@ -9,13 +9,12 @@ Vue.use(VueRouter);
 Vue.config.productionTip = false;
 const routes = [
   {
-    path: "/",
+    path: "",
     component: {
       render: (h) => h(Companies),
     },
-    
   },
-  
+
   {
     name: "company",
     path: "/company/:id",
@@ -24,8 +23,8 @@ const routes = [
       render: (h) => h(Company),
     },
   },
-  {
 
+  {
     path: "/:pathMatch(.*)*",
     props: true,
     component: {
@@ -34,11 +33,10 @@ const routes = [
   },
 ];
 const router = new VueRouter({
-  routes, // сокращённая запись для `routes: routes`
+  routes,
 });
 
 new Vue({
   router,
-  render: (h) => h(App)
-  
+  render: (h) => h(App),
 }).$mount("#app");

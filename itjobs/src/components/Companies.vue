@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="companies__content">
     <Filtration @getData="getFormData" />
     <div v-if="!filtered.length">
       <p class="error">
@@ -22,7 +22,7 @@
             height="50"
         /></router-link>
         <div class="company__details">
-         <TimeComponent :date="item.details.datePlacement" />
+          <TimeComponent :date="item.details.datePlacement" />
           <span> {{ item.schedule }} </span>
         </div>
         <div>
@@ -47,7 +47,7 @@
 <script>
 import data from "../companies.json";
 import Filtration from "./Filtration.vue";
-import TimeComponent from './TimeComponent.vue';
+import TimeComponent from "./TimeComponent.vue";
 export default {
   name: "Companies",
   data() {
@@ -94,7 +94,7 @@ export default {
 
     filterByName(prof) {
       this.filteredArr = data.filter(function (elem) {
-        return elem.details.position.toLowerCase().indexOf(prof) > -1;
+        return elem.details.position.toLowerCase().indexOf(prof) > -1 || elem.name.toLowerCase().indexOf(prof) > -1;
       });
       return this.filteredArr;
     },
@@ -178,22 +178,20 @@ export default {
 
 <style>
 .error {
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 .companies {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 30px;
-  row-gap: 65px;
-  font-size: 16px;
+  row-gap: 49px;
   line-height: 1;
   font-weight: normal;
   color: #6e8098;
   padding-top: 105px;
   margin-bottom: 55px;
+  justify-content: center;
 }
 .company__item {
   background: #ffffff;
@@ -202,7 +200,6 @@ export default {
   position: relative;
   max-width: 350px;
 }
-
 
 .company__img {
   position: absolute;
@@ -237,6 +234,33 @@ export default {
 .load-btn:disabled {
   background-color: black;
   cursor: not-allowed;
+}
+
+
+@media (min-width: 768px) {
+
+  .error {
+  font-size: 2rem;
+  text-align: center;
+}
+  .companies__content {
+    margin: 0 40px;
+  }
+  .companies {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 65px;
+    column-gap: 30px;
+  }
+}
+
+@media (min-width: 1028px) {
+  .companies {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .companies__content {
+    margin: 0 auto;
+  }
 }
 </style>
 

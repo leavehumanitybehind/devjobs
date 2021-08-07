@@ -44,8 +44,8 @@ export default {
 .company__date-placement::after {
   content: "";
   position: absolute;
-  right: 10%;
-  top: 55%;
+  right: 18%;
+  top: 50%;
   width: 4px;
   height: 4px;
   border-radius: 50%;

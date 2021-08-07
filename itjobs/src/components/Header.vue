@@ -24,10 +24,7 @@
 export default {
   name: "Header",
    props: ["value"],
-  data() {
-    return {
-    };
-  },
+   
 };
 </script>
 
@@ -38,8 +35,8 @@ header {
   background: #5964e0;
   background-image: url("../assets/header-bg.svg");
   background-repeat: no-repeat;
-  border-radius: 0px 0px 0px 100px;
-  padding: 45px 10% 75px;
+padding: 32px 5% 72px; 
+  
   display: flex;
   justify-content: space-between;
 }
@@ -120,7 +117,7 @@ label .range-price__checkbox:disabled + .range-price__label:before {
 .range-price__label {
   font-size: 12px;
   line-height: 16px;
-  width: 80px;
+  width: 60px;
   height: 30px;
 }
 
@@ -131,6 +128,27 @@ label .range-price__checkbox:disabled + .range-price__label:before {
 
 .range-price__label--night {
   background: url("../assets/moon.svg") no-repeat center center;
+  margin-left: -11px;
+}
+
+
+@media (min-width: 768px) {
+  header {
+    border-radius: 0px 0px 0px 100px; 
+    padding: 45px 10% 75px; 
+  }
+
+  .range-price__label {
+  font-size: 12px;
+  line-height: 16px;
+  width: 80px;
+  height: 30px;
+}
+
+.range-price__label--night {
+  background: url("../assets/moon.svg") no-repeat center center;
   margin-left: -10px;
+}
+  
 }
 </style>

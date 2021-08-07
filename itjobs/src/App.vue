@@ -12,9 +12,17 @@ export default {
   name: "App",
   data() {
     return {
-      checked: false,
+      checked: '',
     };
   },
+   mounted() {
+    if (localStorage.checked) {
+      this.checked = localStorage.getItem('checked');
+    } else {
+      this.checked = false;
+    }
+  },
+  
   components: {
     Header,
   },
@@ -55,6 +63,7 @@ body {
   font-size: 16px;
   line-height: 1;
   color: #19202d;
+  padding-bottom: 5%;
 }
 
 .default-app {
@@ -70,8 +79,22 @@ body {
 .darkApp .filtration input::placeholder,
 .darkApp .company__item,
 .darkApp .company__position,
-.darkApp select {
+.darkApp select,
+.darkApp .card__intro-wrapper,
+.darkApp .card,
+.darkApp .card__footer,
+.darkApp .check__wrapper,
+.darkApp .mobile__menu {
   background-color: #19202d;
   color: white;
+}
+
+.darkApp .company__btn {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.darkApp .company__desc {
+  color: #9daec2;
 }
 </style>
